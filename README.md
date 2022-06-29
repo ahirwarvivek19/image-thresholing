@@ -7,3 +7,7 @@ As a part of preprocessing thresholding with segmentation is used for The descri
 A problem with simple thresholding is that you have to manually specify the threshold value. We can manually check how good a threshold is by trying different values but it is tedious and it may break down in the real world.
 
 To solve this problem, we are devising a method which can predict the perfect threshold for an image that can be useful for its real-life application. The Methods we have studied include all types of thresholding techniques such as Adaptive thresholding, Simple thresholding, Otsu's thresholding method, and Kapur’s thresholding method.
+
+![alt text](https://github.com/ahirwarvivek19/image-thresholing/blob/main/screenshots/1.jpg)
+
+![alt text](https://github.com/ahirwarvivek19/image-thresholing/blob/main/screenshots/2.jpg)
