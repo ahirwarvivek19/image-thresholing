@@ -1,2 +1,2 @@
-# image thresholing
+# Image Thresholing
  
